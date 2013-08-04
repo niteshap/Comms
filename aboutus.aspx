@@ -15,7 +15,7 @@
 
 <table width="908" border="0" align="center" class="tablemain" cellpadding="0" cellspacing="0">
   <tr>
-    <td height="1" colspan="2" valign="top"><img src="images/spacerwide.gif" height="5"></td>
+    <td height="1" colspan="2" valign="top"><img src="images/spacerwide.gif" height="5">test</td>
   </tr>
   <!--#include virtual="top.aspx"-->
       <tr>
