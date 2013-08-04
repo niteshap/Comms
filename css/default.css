@@ -1,0 +1,99 @@
+/* CSS Document */
+body {
+	background: url(../css/sitelayout/common/background.png) no-repeat #a9e4bc;
+	margin: 0px;
+}
+body, td {	
+	font-family: Verdana;
+	font-size: 10pt;
+	overflow: auto; 
+}
+#menuBar {
+	background: url(../css/sitelayout/common/menubar_background.png);
+	width: 170px;
+	border-right: 2px solid #378f61;
+	vertical-align: top;
+	text-align: center;
+	padding-top: 10px;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #000066;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+a:active {
+	color: #006699;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+a:hover {
+	color: #006699;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+a.menuButton {
+	background: url(../css/sitelayout/common/button.gif) repeat-x #fcfcfc;
+	background-color: White;
+	width: 125px;
+	border: 1px outset #006699;
+	color: Black;
+	text-decoration: none;
+}
+a.menuButton:hover {
+	background: white;
+}
+.menuButtonSelected 
+{
+	background: #fcfcfc;
+	color: Black;
+	font-weight: bold;
+	text-decoration: none;
+	width: 125px;
+	height: 20px;
+	padding: 1px;
+	vertical-align: super;
+	border: 1px solid #006699;
+}
+#main {
+	background-color: white;
+	padding: 5px;
+}
+#title {
+	font-size: 14pt;
+	font-family: Tahoma;
+	font-weight: normal;
+	width: 198px;
+	vertical-align: bottom;
+}
+#topBar {
+	border-bottom: 2px solid #378f61;
+	text-align: right;
+	
+}
+.background1 { background: url(../css/styles/backgrounds/bg1.jpg) repeat-x; }
+.background2 { background: url(../css/styles/backgrounds/bg2.jpg) repeat-x; }
+.background3 { background: url(../css/styles/backgrounds/bg3.jpg) repeat-x; }
+.background4 { background: url(../css/styles/backgrounds/bg4.jpg) repeat-x; }
+.background5 { background: url(../css/styles/backgrounds/bg5.jpg) repeat-x; }
+
+td.menuButton {
+	text-align: center;
+	height: 25px;
+}
+td.groove {
+	height: 10px;
+}
+td.white_shadow {background: url(../css/sitelayout/common/white_shadow.png) repeat-x; }
+
